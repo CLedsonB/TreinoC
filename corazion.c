@@ -10,7 +10,6 @@ int main()
 			z = x*x + y*y -1 ;
 			putchar(z*z*z - x*x*y*y*y <= 0.0 ? '*' : ' ');
 		}
-		//system("color 04");
 		putchar('\n');
 	}
 	printf("\n\n\t\t\tTE AMO TAI");
