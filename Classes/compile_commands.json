@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/Classes",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Documents/Cxxdroid/Classes/include -I/storage/emulated/0/Documents/Cxxdroid/Classes/src -Wall -std=c++17 -fallow-void-main -o CMakeFiles/MultipleFiles.dir/src/class.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/Classes/src/class.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/Classes/src/class.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/Classes",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Documents/Cxxdroid/Classes/include -I/storage/emulated/0/Documents/Cxxdroid/Classes/src -Wall -std=c++17 -fallow-void-main -o CMakeFiles/MultipleFiles.dir/src/main.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/Classes/src/main.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/Classes/src/main.cpp"
+}
+]
