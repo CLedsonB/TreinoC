@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include <locale.h>
 #include<string.h>
 
 char* reverse(char entrada[200])
@@ -20,11 +21,12 @@ char* reverse(char entrada[200])
 
 int main(void)
 {
+    setlocale(LC_ALL,"Portuguese");
     char texto[200], *conversao;
     printf(" Insira Texto\n->");
     fgets(texto,200,stdin);
     conversao = reverse(texto);
-    printf(" Texto reverso\n-> %s", conversao);
+    printf(" Texto reverso\n%s\n\n", conversao);
     
     return 0;
 }
